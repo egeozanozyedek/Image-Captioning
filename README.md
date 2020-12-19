@@ -1,1 +1,1 @@
-# bilkent_eee443_project
+# Bilkent EEE443 Neural Networks Term Project
