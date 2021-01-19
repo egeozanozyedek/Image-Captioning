@@ -1,9 +1,11 @@
 import numpy
 import h5py
-import tools
+import constant
+import toolbox
 
-TRAIN_DATA_FILENAME = "eee443_project_dataset_train.h5"
-f = h5py.File(TRAIN_DATA_FILENAME, "r")
+
+f = h5py.File(constant.TRAIN_DATA_FILENAME, "r")
+print(constant.TRAIN_DATA_FILENAME)
 
 data = {}
 
@@ -11,5 +13,4 @@ for key in list(f.keys()):
     data[key] = f[key][()]
     print(key, ":", data[key].shape)
 
-tools.download_data()
 
