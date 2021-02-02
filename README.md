@@ -29,6 +29,10 @@ Image captioning task is generating a sequence of appropriate words for a given 
 
 ### **Example Captions**
 
-![title](example_captions/132400880_058cc8cb1c_z.jpg)
+![](example_captions/132400880_058cc8cb1c_z.jpg)
+
+![](example_captions/Unknown-19.png)
+
+![](example_captions/3843767010_7f0f9a3c9d_z.jpg)
 
 
