@@ -2,9 +2,9 @@
 
 ### **Group Members**
 
-*Berfin Kavşut
-*Beste Aydemir
-*Ege Ozan Özyedek
+* Berfin Kavşut
+* Beste Aydemir
+* Ege Ozan Özyedek
 
 ### **Abstract**
 
