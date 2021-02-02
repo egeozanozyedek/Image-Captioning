@@ -21,5 +21,4 @@ Image captioning task is generating a sequence of appropriate words for a given 
 
 
 
-**Example Generated Captions**
 
