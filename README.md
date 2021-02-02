@@ -18,6 +18,7 @@ Image captioning task is generating a sequence of appropriate words for a given 
      Modified Pre-Inject        68.0       49.8       34.7       24.2       27.1       49.2       85.5
      Modified Init-Inject       68.1       49.7       34.5       24.0     **25.6**     49.4       86.6
    Bidirectional Multimodal     68.1       49.3       34.1       23.6       27.6       49.5       85.6
+   
 
 
 ***Example Captions***
