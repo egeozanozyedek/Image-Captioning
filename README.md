@@ -1,4 +1,4 @@
-# Bilkent EEE443 Neural Networks Term Project
+# Neural Networks Term Project
 
 ### **Group Members**
 
