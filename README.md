@@ -1,4 +1,4 @@
-# Neural Networks Term Project
+# Image Captioning using Deep Learning (EEE443 - Neural Networks Term Project)
 
 ### **Group Members**
 
