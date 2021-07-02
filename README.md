@@ -1,10 +1,12 @@
 # Image Captioning (EEE443 - Neural Networks Term Project)
 
-### **Group Members**
+## Contributors
 
-* Berfin Kavşut
-* Beste Aydemir
-* Ege Ozan Özyedek
+* Berfin Kavsut (@berfinkavsut on GitHub)
+* Beste Aydemir (@besteaydemir on GitHub)
+* Ege Ozan Özyedek (@egeozanozyedek on GitHub)
+
+
 
 ### **Abstract**
 
